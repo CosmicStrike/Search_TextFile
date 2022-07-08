@@ -1,0 +1,9 @@
+﻿  Search2.0.cpp
+E:\SHUBHAM FILE\Visual studio projects\Win10_projects\(.cpp)files\Search2.0\Search2.0\Search2.0.cpp(67,19): warning C4018: '<': signed/unsigned mismatch
+E:\SHUBHAM FILE\Visual studio projects\Win10_projects\(.cpp)files\Search2.0\Search2.0\Search2.0.cpp(276,25): warning C4018: '<': signed/unsigned mismatch
+E:\SHUBHAM FILE\Visual studio projects\Win10_projects\(.cpp)files\Search2.0\Search2.0\Search2.0.cpp(293,25): warning C4018: '<=': signed/unsigned mismatch
+E:\SHUBHAM FILE\Visual studio projects\Win10_projects\(.cpp)files\Search2.0\Search2.0\Search2.0.cpp(433,25): warning C4018: '<': signed/unsigned mismatch
+E:\SHUBHAM FILE\Visual studio projects\Win10_projects\(.cpp)files\Search2.0\Search2.0\Search2.0.cpp(450,25): warning C4018: '<=': signed/unsigned mismatch
+E:\SHUBHAM FILE\Visual studio projects\Win10_projects\(.cpp)files\Search2.0\Search2.0\Search2.0.cpp(531,22): warning C4018: '<': signed/unsigned mismatch
+E:\SHUBHAM FILE\Visual studio projects\Win10_projects\(.cpp)files\Search2.0\Search2.0\Search2.0.cpp(562,22): warning C4018: '<': signed/unsigned mismatch
+  Search2.0.vcxproj -> E:\SHUBHAM FILE\Visual studio projects\Win10_projects\(.cpp)files\Search2.0\Debug\Search2.0.exe
